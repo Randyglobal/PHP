@@ -1,0 +1,20 @@
+.table-heading {
+  text-align: center;
+  background: #333;
+  color: white;
+  padding: 20px;
+  letter-spacing: 2px;
+  font-weight: 500;
+}
+.active-students {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  /* background: red; */
+  margin-bottom: 20px;
+}
+.message {
+  color: red;
+  text-align: center;
+}
